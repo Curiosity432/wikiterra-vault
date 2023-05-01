@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"42e841ee59e996b9","x":-440,"y":-160,"width":250,"height":60,"type":"text","text":"Modelo"},
+		{"id":"6096b0d97e66ec94","x":-440,"y":90,"width":250,"height":60,"type":"text","text":"Subjetividad"},
+		{"id":"d2d80a63072df504","x":160,"y":90,"width":250,"height":60,"type":"text","text":"Ser"},
+		{"id":"c5d740a574e00320","x":160,"y":-160,"width":250,"height":60,"type":"text","text":"Realidad"},
+		{"id":"3bc0826dad76485c","x":-120,"y":-40,"width":205,"height":60,"color":"6","type":"text","text":"Reality Mindmap"}
+	],
+	"edges":[
+		{"id":"22dde5b290c4ce3a","fromNode":"3bc0826dad76485c","fromSide":"left","toNode":"42e841ee59e996b9","toSide":"right"},
+		{"id":"340a993b1a84cf9c","fromNode":"3bc0826dad76485c","fromSide":"left","toNode":"6096b0d97e66ec94","toSide":"right"},
+		{"id":"a6b1204287d331db","fromNode":"3bc0826dad76485c","fromSide":"right","toNode":"d2d80a63072df504","toSide":"left"},
+		{"id":"90d88cc08eec9bc3","fromNode":"3bc0826dad76485c","fromSide":"right","toNode":"c5d740a574e00320","toSide":"left"}
+	]
+}
